@@ -1,0 +1,12 @@
+header .logo {
+    position: absolute;
+    top: 20px; /* Ajuste para centralizar verticalmente */
+    left: 20px; /* Margem para o canto superior esquerdo */
+    z-index: 1000;
+}
+
+header .logo img {
+    width: 200px; /* Aumenta o tamanho do logotipo */
+    height: auto;
+}
+
